@@ -1,0 +1,15 @@
+body{
+    text-align:center;
+    background-image:url("https://cdn3.vectorstock.com/i/1000x1000/04/07/palm-trees-background-when-sunset-vector-7520407.jpg");
+    font-family: 'Poiret One', cursive;
+}
+
+button{
+    width:70px;
+    height: 40px;
+}
+
+input{
+    width: 190px;
+    height: 20px;
+}
